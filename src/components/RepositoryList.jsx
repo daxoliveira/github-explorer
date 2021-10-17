@@ -16,7 +16,7 @@ export function RepositoryList() {
 
   return (
     <section className="repository-list">
-      <h1>Repositories</h1>
+      <h1>Repositories from EddieHub Community</h1>
 
       <ul>
         {repositories.map(repository => {
